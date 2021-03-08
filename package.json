@@ -1,0 +1,21 @@
+{
+    "name": "nox",
+    "displayName": "nox",
+    "description": "Just another dark theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Nox",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Nox-color-theme.json"
+            }
+        ]
+    }
+}
