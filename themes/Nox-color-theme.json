@@ -26,7 +26,15 @@
 		"minimap.selectionHighlight": "#FFFFFF40",
 		"minimapGutter.addedBackground": "#A6E22E",
 		"minimapGutter.modifiedBackground": "#66D9EF",
-		"minimapGutter.deletedBackground": "#F92672"
+		"minimapGutter.deletedBackground": "#F92672",
+		"gitDecoration.untrackedResourceForeground": "#A6E22E",
+		"gitDecoration.addedResourceForeground": "#A6E22E",
+		"gitDecoration.modifiedResourceForeground": "#66D9EF",
+		"gitDecoration.deletedResourceForeground": "#F92672",
+		"gitDecoration.conflictingResourceForeground": "#F92672",
+		"gitDecoration.renamedResourceForeground": "#FD971F",
+		"gitDecoration.stageModifiedResourceForeground": "#66D9EF",
+		"gitDecoration.stageDeletedResourceForeground": "#F92672"
 	},
 	"tokenColors": [
 		{
