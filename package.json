@@ -1,10 +1,21 @@
 {
     "name": "nox",
-    "displayName": "nox",
-    "description": "Just another dark theme",
-    "version": "0.0.1",
+    "displayName": "Nox",
+    "description": "Just another dark theme, with a bit of colour",
+    "publisher": "jshstw",
+    "version": "0.1.0",
     "engines": {
         "vscode": "^1.54.0"
+    },
+    "icon": "icon.png",
+    "author": {
+        "name": "Josh Stow",
+        "email": "hello@jstow.com",
+        "url": "https://github.com/jshstw/"
+    },
+    "repository": {
+        "url": "https://github.com/jshstw/nox.git",
+        "type": "git"
     },
     "categories": [
         "Themes"
