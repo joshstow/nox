@@ -378,6 +378,22 @@
 			}
 		},
 		{
+			"name": "JSON, Comment Character",
+			"scope": "punctuation.definition.comment.json",
+			"settings": {
+				"foreground": "#FD971F",
+				"fontStyle": "italic bold"
+			}
+		},
+		{
+			"name": "JSON, Comment",
+			"scope": "comment.line.double-slash.js",
+			"settings": {
+				"foreground": "#929292",
+				"fontStyle": "italic"
+			}
+		},
+		{
 			"name": "JSON, String",
 			"scope": [
 				"string.quoted.double.json",
