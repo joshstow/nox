@@ -740,7 +740,7 @@
 			"name": "Python, Self",
 			"scope": "variable.parameter.function.language.special.self.python",
 			"settings": {
-				"foreground": "#FAC748",
+				"foreground": "#FFDC17",
 				"fontStyle": "italic"
 			}
 		},
@@ -748,7 +748,7 @@
 			"name": "Python, Self Called",
 			"scope": "variable.language.special.self.python",
 			"settings": {
-				"foreground": "#FAC748",
+				"foreground": "#FFDC17",
 				"fontStyle": "italic"
 			}
 		},
