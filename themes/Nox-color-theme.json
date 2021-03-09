@@ -716,32 +716,12 @@
 			}
 		},
 		{
-			"name": "Python, Strings",
+			"name": "Python, String",
 			"scope": [
 				"string.quoted.single.python",
-				"string.quoted.docstring.multi.python"
-			],
-			"settings": {
-				"foreground": "#A6E22E"
-			}
-		},
-		{
-			"name": "Python, String Type",
-			"scope": "storage.type.string.python",
-			"settings": {
-				"foreground": "#A6E22E"
-			}
-		},
-		{
-			"name": "Python, String Regexp",
-			"scope": "string.regexp",
-			"settings": {
-				"foreground": "#A6E22E"
-			}
-		},
-		{
-			"name": "Python, Quotation Marks",
-			"scope": [
+				"string.quoted.docstring.multi.python",
+				"storage.type.string.python",
+				"string.regexp",
 				"punctuation.definition.string.begin.python",
 				"punctuation.definition.string.end.python"
 			],
@@ -787,15 +767,10 @@
 		},
 		{
 			"name": "Python, Self",
-			"scope": "variable.parameter.function.language.special.self.python",
-			"settings": {
-				"foreground": "#FFDC17",
-				"fontStyle": "italic"
-			}
-		},
-		{
-			"name": "Python, Self Called",
-			"scope": "variable.language.special.self.python",
+			"scope": [
+				"variable.parameter.function.language.special.self.python",
+				"variable.language.special.self.python"
+			],
 			"settings": {
 				"foreground": "#FFDC17",
 				"fontStyle": "italic"
