@@ -1,4 +1,4 @@
-# ![Nox](images/banner.jpg)
+# ![Nox](./banner.jpg)
 <h3 align="center">A custom dark-theme for the VSCode editor</h3>
 
 <p align="center">
