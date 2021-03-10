@@ -1,4 +1,14 @@
-# Nox - VS Code dark theme
-Just another dark theme, with a bit of colour
+# ![Nox](images/banner.jpg)
+<h4 align="center">A custom dark-theme for the VSCode editor</h4>
+<h4 align="center"><a href="https://marketplace.visualstudio.com/items?itemName=jshstw.nox" target="_blank">Download this theme</a></h4>
+<br/>
 
-@author: Josh Stow
+<p align="center">
+	<img alt="Author" src="https://img.shields.io/badge/author-Josh%20Stow-blueviolet"/>
+  <img alt="Version" src="https://img.shields.io/github/v/release/jshstw/nox?include_prereleases"/>
+	<img alt="Last Commit" src="https://img.shields.io/github/last-commit/jshstw/nox"/>
+	<img alt="License" src="https://img.shields.io/github/license/jshstw/nox?color=informational"/>
+</p>
+
+## License
+MIT © [Josh Stow](https://jstow.com)
