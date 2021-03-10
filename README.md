@@ -1,7 +1,5 @@
 # ![Nox](images/banner.jpg)
-<h4 align="center">A custom dark-theme for the VSCode editor</h4>
-<h4 align="center"><a href="https://marketplace.visualstudio.com/items?itemName=jshstw.nox" target="_blank">Download this theme</a></h4>
-<br/>
+<h3 align="center">A custom dark-theme for the VSCode editor</h3>
 
 <p align="center">
 	<img alt="Author" src="https://img.shields.io/badge/author-Josh%20Stow-blueviolet"/>
