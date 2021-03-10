@@ -10,6 +10,7 @@
 
 ## Supported Filetypes
 - Python
+- HTML
 - JSON
 - Markdown
 
