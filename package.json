@@ -17,6 +17,10 @@
         "url": "https://github.com/jshstw/nox.git",
         "type": "git"
     },
+    "keywords": [
+        "dark",
+        "simple"
+    ],
     "categories": [
         "Themes"
     ],
