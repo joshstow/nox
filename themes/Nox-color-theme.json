@@ -880,6 +880,39 @@
 			"settings": {
 				"foreground": "#FD971F"
 			}
+		},
+		{
+			"name": "HTML, Tag",
+			"scope": "entity.name.tag.html",
+			"settings": {
+				"foreground": "#F92672"
+			}
+		},
+		{
+			"name": "HTML, Attribute",
+			"scope": "entity.other.attribute-name.html",
+			"settings": {
+				"foreground": "#AE81FF"
+			}
+		},
+		{
+			"name": "HTML, String",
+			"scope": [
+				"string.quoted.double.html",
+				"string.quoted.single.html",
+				"punctuation.definition.string.begin.html",
+				"punctuation.definition.string.end.html"
+			],
+			"settings": {
+				"foreground": "#A6E22E"
+			}
+		},
+		{
+			"name": "HTML, Deprecated Attribute",
+			"scope": "invalid.deprecated.entity.other.attribute-name.html",
+			"settings": {
+				"foreground": "#FD971F"
+			}
 		}
 	]
 }
