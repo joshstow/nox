@@ -3,7 +3,7 @@
 
 <p align="center">
 	<img alt="Author" src="https://img.shields.io/badge/author-Josh%20Stow-blueviolet"/>
-  <img alt="Version" src="https://img.shields.io/github/v/release/jshstw/nox?include_prereleases"/>
+  <img alt="Version" src="https://img.shields.io/github/v/release/jshstw/nox?color=orange&include_prereleases"/>
 	<img alt="Last Commit" src="https://img.shields.io/github/last-commit/jshstw/nox"/>
 	<img alt="License" src="https://img.shields.io/github/license/jshstw/nox?color=informational"/>
 </p>
