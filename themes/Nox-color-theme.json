@@ -634,7 +634,14 @@
 			}
 		},
 		{
-			"name": "Markdown - Link Description",
+			"name": "Markdown, Link Description",
+			"scope": "string.other.link.description.markdown",
+			"settings": {
+				"foreground": "#AE81FF"
+			}
+		},
+		{
+			"name": "Markdown, Link Description Title",
 			"scope": [
 				"string.other.link.description.title.markdown"
 			],
