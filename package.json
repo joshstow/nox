@@ -1,7 +1,7 @@
 {
     "name": "nox",
     "displayName": "Nox",
-    "description": "Just another dark theme, with a bit of colour",
+    "description": "Just another dark theme",
     "publisher": "jshstw",
     "version": "0.2.1",
     "engines": {
