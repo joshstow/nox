@@ -10,5 +10,10 @@
 	<img alt="License" src="https://img.shields.io/github/license/jshstw/nox?color=informational"/>
 </p>
 
+## Supported Filetypes
+- Python
+- JSON
+- Markdown
+
 ## License
 MIT © [Josh Stow](https://jstow.com)
