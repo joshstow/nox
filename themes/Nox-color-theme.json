@@ -15,6 +15,7 @@
 		"activityBarBadge.background": "#FD971F",
 		"sideBar.background": "#222222",
 		"sideBarTitle.foreground": "#EEFFFF",
+		"sideBarSectionHeader.background": "#222222",
 		"statusBar.debuggingBackground": "#3F3F3F",
 		"statusBar.noFolderBackground": "#3F3F3F",
 		"statusBar.background": "#3F3F3F",
@@ -23,6 +24,7 @@
 		"tab.activeBorder": "#66D9EF",
 		"tab.inactiveBackground": "#2B2B2B",
 		"titleBar.activeBackground": "#222222",
+		"titleBar.inactiveBackground": "#222222",
 		"minimap.selectionHighlight": "#FFFFFF40",
 		"minimapGutter.addedBackground": "#A6E22E",
 		"minimapGutter.modifiedBackground": "#66D9EF",
@@ -34,7 +36,9 @@
 		"gitDecoration.conflictingResourceForeground": "#F92672",
 		"gitDecoration.renamedResourceForeground": "#FD971F",
 		"gitDecoration.stageModifiedResourceForeground": "#66D9EF",
-		"gitDecoration.stageDeletedResourceForeground": "#F92672"
+		"gitDecoration.stageDeletedResourceForeground": "#F92672",
+		"list.activeSelectionBackground": "#66D9EF50",
+		"list.focusOutline": "#66D9EF80"
 	},
 	"tokenColors": [
 		{
