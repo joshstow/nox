@@ -993,5 +993,67 @@
 				"foreground": "#A6E22E"
 			}
 		},
+		{
+			"name": "JavaScript, Comment Character",
+			"scope": "punctuation.definition.comment.js",
+			"settings": {
+				"foreground": "#FD971F",
+				"fontStyle": "italic bold"
+			}
+		},
+		{
+			"name": "JavaScript, Control",
+			"scope": [
+				"keyword.control.import.js",
+				"keyword.control.from.js"
+			],
+			"settings": {
+				"foreground": "#F92672"
+			}
+		},
+		{
+			"name": "JavaScript, Variable Other",
+			"scope": [
+				"variable.other.readwrite.alias.js",
+				"variable.other.readwrite.js"
+			],
+			"settings": {
+				"foreground": "#FFDC17"
+			}
+		},
+		{
+			"name": "JavaScript, String",
+			"scope": [
+				"punctuation.definition.string.begin.js",
+				"punctuation.definition.string.end.js",
+				"string.quoted.single.js",
+				"string.quoted.double.js"
+			],
+			"settings": {
+				"foreground": "#A6E22E"
+			}
+		},
+		{
+			"name": "JavaScript, Operator",
+			"scope": [
+				"keyword.operator.assignment.js",
+				"keyword.operator.arithmetic.js"
+			],
+			"settings": {
+				"foreground": "#F92672"
+			}
+		},
+		{
+			"name": "JavaScript, Constant",
+			"scope": [
+				"constant.language.boolean.true.js",
+				"constant.language.boolean.false.js",
+				"constant.language.null.js",
+				"constant.numeric.decimal.js"
+			],
+			"settings": {
+				"foreground": "#FD971F"
+			}
+		}
 	]
 }
