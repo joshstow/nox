@@ -8,6 +8,9 @@
 	<img alt="License" src="https://img.shields.io/github/license/jshstw/nox?color=informational"/>
 </p>
 
+## About
+Nox, Latin for 'night', is a simple yet effective dark theme with beautiful syntax highlighting and vibrant colours, developed by [Josh Stow](https://jstow.com). For feature requests or bug reports please open an issue in the GitHub [repository](https://github.com/jshstw/nox).
+
 ## Supported Filetypes
 - Python
 - HTML
