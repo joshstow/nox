@@ -920,6 +920,74 @@
 			"settings": {
 				"foreground": "#FD971F"
 			}
-		}
+		},
+		{
+			"name": "CSS, Tag",
+			"scope": "entity.name.tag.css",
+			"settings": {
+				"foreground": "#F92672"
+			}
+		},
+		{
+			"name": "CSS, ID",
+			"scope": "entity.other.attribute-name.id.css",
+			"settings": {
+				"foreground": "#AE81FF"
+			}
+		},
+		{
+			"name": "CSS, Class",
+			"scope": "entity.other.attribute-name.class.css",
+			"settings": {
+				"foreground": "#FFDC17"
+			}
+		},
+		{
+			"name": "CSS, Property Name",
+			"scope": "support.type.property-name.css",
+			"settings": {
+				"foreground": "#EEFFFF"
+			}
+		},
+		{
+			"name": "CSS, Vendored Property Name",
+			"scope": "support.type.vendored.property-name.css",
+			"settings": {
+				"foreground": "#82AAFF"
+			}
+		},
+		{
+			"name": "CSS, Property Value",
+			"scope": [
+				"meta.property-value.css",
+				"constant.numeric.css",
+				"support.constant.vendored.property-value.css",
+				"support.constant.font-name.css",
+				"support.constant.property-value.css"
+			],
+			"settings": {
+				"foreground": "#FD971F"
+			}
+		},
+		{
+			"name": "CSS, Important",
+			"scope": "keyword.other.important.css",
+			"settings": {
+				"foreground": "#FD971F",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "CSS, String",
+			"scope": [
+				"string.quoted.double.css",
+				"string.quoted.single.css",
+				"punctuation.definition.string.begin.css",
+				"punctuation.definition.string.end.css"
+			],
+			"settings": {
+				"foreground": "#A6E22E"
+			}
+		},
 	]
 }
