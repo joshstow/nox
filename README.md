@@ -11,6 +11,7 @@
 ## Supported Filetypes
 - Python
 - HTML
+- CSS
 - JSON
 - Markdown
 
