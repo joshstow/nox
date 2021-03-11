@@ -871,7 +871,8 @@
 			"name": "Python, Operator",
 			"scope": [
 				"keyword.operator.assignment.python",
-				"keyword.operator.arithmetic.python"
+				"keyword.operator.arithmetic.python",
+				"keyword.operator.comparison.python"
 			],
 			"settings": {
 				"foreground": "#F92672"
