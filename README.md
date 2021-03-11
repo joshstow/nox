@@ -11,12 +11,16 @@
 ## About
 Nox, Latin for 'night', is a simple yet effective dark theme with beautiful syntax highlighting and vibrant colours, developed by [Josh Stow](https://jstow.com). For feature requests or bug reports please open an issue in the GitHub [repository](https://github.com/jshstw/nox).
 
-## Supported Filetypes
+## Supported filetypes
 - Python
 - HTML
 - CSS
 - JSON
 - Markdown
+
+## Built with
+- [yo](https://www.npmjs.com/package/yo)
+- [vsce](https://www.npmjs.com/package/vsce)
 
 ## License
 MIT © [Josh Stow](https://jstow.com)
