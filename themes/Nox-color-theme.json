@@ -795,7 +795,10 @@
 		},
 		{
 			"name": "Python Parameters",
-			"scope": "variable.parameter.function.language.python",
+			"scope": [
+				"variable.parameter.function.language.python",
+				"variable.parameter.function-call.python"
+			],
 			"settings": {
 				"foreground": "#82AAFF"
 			}
@@ -866,7 +869,10 @@
 		},
 		{
 			"name": "Python, Operator",
-			"scope": "keyword.operator.assignment.python",
+			"scope": [
+				"keyword.operator.assignment.python",
+				"keyword.operator.arithmetic.python"
+			],
 			"settings": {
 				"foreground": "#F92672"
 			}
