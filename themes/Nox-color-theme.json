@@ -41,6 +41,20 @@
 	},
 	"tokenColors": [
 		{
+			"name": "Regexp",
+			"scope": [
+				"string.regexp",
+				"punctuation.parenthesis.begin.regexp",
+				"punctuation.parenthesis.end.regexp",
+				"support.other.escape.special.regexp",
+				"string.regexp.quoted.single",
+				"keyword.operator.quantifier.regexp"
+			],
+			"settings":{
+				"foreground": "#A6E22E"
+			}
+		},
+		{
 			"name": "Comment",
 			"scope": [
 				"comment",
@@ -754,13 +768,18 @@
 			"scope": [
 				"string.quoted.single.python",
 				"string.quoted.docstring.multi.python",
-				"storage.type.string.python",
-				"string.regexp",
 				"punctuation.definition.string.begin.python",
 				"punctuation.definition.string.end.python"
 			],
 			"settings": {
 				"foreground": "#A6E22E"
+			}
+		},
+		{
+			"name": "Python, String Type",
+			"scope": "storage.type.string.python",
+			"settings": {
+				"foreground": "#F92672"
 			}
 		},
 		{
