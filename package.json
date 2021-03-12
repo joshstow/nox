@@ -3,7 +3,7 @@
     "displayName": "Nox",
     "description": "Just another dark theme",
     "publisher": "jshstw",
-    "version": "0.3.1",
+    "version": "0.4.0",
     "license": "MIT",
     "engines": {
         "vscode": "^1.54.0"
