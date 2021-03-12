@@ -38,6 +38,8 @@
 		"gitDecoration.stageDeletedResourceForeground": "#F92672",
 		"list.activeSelectionBackground": "#66D9EF50",
 		"list.focusOutline": "#66D9EF80",
+		"list.errorForeground": "#F92672",
+		"list.warningForeground": "#FFDC17",
 		"menu.selectionBackground": "#66D9EF50"	
 	},
 	"tokenColors": [
