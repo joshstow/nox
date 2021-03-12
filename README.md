@@ -13,6 +13,7 @@ Nox, Latin for 'night', is a simple yet effective dark theme with beautiful synt
 
 ## Supported filetypes
 - Python
+- JavaScript
 - HTML
 - CSS
 - JSON
