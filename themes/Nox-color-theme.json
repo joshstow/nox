@@ -119,7 +119,9 @@
 				"punctuation.definition.tag.end.html",
 				"punctuation.section.embedded",
 				"keyword.other.template",
-				"keyword.other.substitution"
+				"keyword.other.substitution",
+				"meta.brace.square",
+				"meta.brace.round"
 			],
 			"settings": {
 				"foreground": "#66D9EF"
