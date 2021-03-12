@@ -1045,7 +1045,7 @@
 				"variable.other.readwrite.js"
 			],
 			"settings": {
-				"foreground": "#FFDC17"
+				"foreground": "#EEFFFF"
 			}
 		},
 		{
@@ -1064,7 +1064,9 @@
 			"name": "JavaScript, Operator",
 			"scope": [
 				"keyword.operator.assignment.js",
-				"keyword.operator.arithmetic.js"
+				"keyword.operator.arithmetic.js",
+				"storage.type.function.arrow.js",
+				"keyword.operator.logical.js"
 			],
 			"settings": {
 				"foreground": "#F92672"
@@ -1080,6 +1082,76 @@
 			],
 			"settings": {
 				"foreground": "#FD971F"
+			}
+		},
+		{
+			"name": "JavaScript, Function Call",
+			"scope": [
+				"entity.name.function.js",
+				"support.function.js",
+				"support.function.math.js"
+			],
+			"settings": {
+				"foreground": "#66D9EF"
+			}
+		},
+		{
+			"name": "JavaScript, Function Definition",
+			"scope": "storage.type.function.js",
+			"settings": {
+				"foreground": "#AE81FF",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "JavaScript, Constant Variable",
+			"scope": "variable.other.constant.js",
+			"settings": {
+				"foreground": "#EEFFFF"
+			}
+		},
+		{
+			"name": "JavaScript, Object",
+			"scope": "variable.other.object.js",
+			"settings": {
+				"foreground": "#EEFFFF"
+			}
+		},
+		{
+			"name": "JavaScript, Property",
+			"scope": [
+				"variable.other.object.property.js",
+				"variable.other.property.js"
+			],
+			"settings": {
+				"foreground": "#FFDC17"
+			}
+		},
+		{
+			"name": "JavaScript, Parameter",
+			"scope": "variable.parameter.js",
+			"settings": {
+				"foreground": "#FFDC17"
+			}
+		},
+		{
+			"name": "JavaScript, Builtin Class",
+			"scope": [
+				"support.class.builtin.js",
+				"support.constant.math.js"
+			],
+			"settings": {
+				"foreground": "#82AAFF"
+			}
+		},
+		{
+			"name": "JavaScript, Control",
+			"scope": [
+				"keyword.control.flow.js",
+				"keyword.control.trycatch.js"
+			],
+			"settings": {
+				"foreground": "#F92672"
 			}
 		}
 	]
