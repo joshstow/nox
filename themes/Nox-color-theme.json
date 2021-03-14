@@ -1280,6 +1280,16 @@
 				"foreground": "#F92672",
 				"fontStyle": "italic"
 			}
+		},
+		{
+			"name": "Solidity, String",
+			"scope": [
+				"string.quoted.double.solidity",
+				"string.quoted.single.solidity"
+			],
+			"settings": {
+				"foreground": "#A6E22E"
+			}
 		}
 	]
 }
