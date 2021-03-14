@@ -1187,6 +1187,99 @@
 			"settings": {
 				"foreground": "#EEFFFF"
 			}
+		},
+		{
+			"name": "Solidity, Pragma",
+			"scope": "keyword.control.pragma.solidity",
+			"settings": {
+				"foreground": "#F92672"
+			}
+		},
+		{
+			"name": "Solidity, Solidity Tag",
+			"scope": "entity.name.tag.pragma.solidity",
+			"settings": {
+				"foreground": "#66D9EF"
+			}
+		},
+		{
+			"name": "Solidity, Operator",
+			"scope": [
+				"keyword.operator.logic.solidity",
+				"keyword.operator.mapping.solidity",
+				"keyword.operator.arithmetic.solidity",
+				"keyword.operator.assignment.solidity"
+			],
+			"settings": {
+				"foreground": "#F92672"
+			}
+		},
+		{
+			"name": "Solidity, Numeric",
+			"scope": [
+				"constant.numeric.decimal.solidity",
+				"constant.numeric.hexadecimal.solidity"
+			],
+			"settings": {
+				"foreground": "#FD971F"
+			}
+		},
+		{
+			"name": "Solidity, Type",
+			"scope": "support.type.primitive.solidity",
+			"settings": {
+				"foreground": "#F92672"
+			}
+		},
+		{
+			"name": "Solidity, Storage",
+			"scope": [
+				"storage.type.contract.solidity",
+				"storage.type.struct.solidity",
+				"storage.type.constructor.solidity",
+				"storage.type.event.solidity",
+				"storage.type.function.solidity"
+			],
+			"settings": {
+				"foreground": "#AE81FF",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "Solidity, Entity Name",
+			"scope": [
+				"entity.name.type.contract.solidity",
+				"entity.name.type.struct.solidity"
+			],
+			"settings": {
+				"foreground": "#EEFFFF"
+			}
+		},
+		{
+			"name": "Solidity, Function Call",
+			"scope": [
+				"entity.name.function.solidity",
+				"storage.type.mapping.solidity",
+				"entity.name.type.event.solidity"
+			],
+			"settings": {
+				"foreground": "#66D9EF"
+			}
+		},
+		{
+			"name": "Solidity, Modifier",
+			"scope": "storage.type.mofifier.solidity",
+			"settings": {
+				"foreground": "#FFDC17"
+			}
+		},
+		{
+			"name": "Solidity, Transaction Variable",
+			"scope": "variable.language.transaction.solidity",
+			"settings": {
+				"foreground": "#F92672",
+				"fontStyle": "italic"
+			}
 		}
 	]
 }
