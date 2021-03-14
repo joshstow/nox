@@ -16,6 +16,7 @@ Nox, Latin for 'night', is a simple yet effective dark theme with beautiful synt
 - JavaScript
 - HTML
 - CSS
+- Solidity
 - JSON
 - Markdown
 
