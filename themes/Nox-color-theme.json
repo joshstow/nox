@@ -1290,6 +1290,13 @@
 			"settings": {
 				"foreground": "#A6E22E"
 			}
+		},
+		{
+			"name": "Solidity, Boolean",
+			"scope": "constant.language.boolean.solidity",
+			"settings": {
+				"foreground": "#FD971F"
+			}
 		}
 	]
 }
