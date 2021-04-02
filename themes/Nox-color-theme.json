@@ -1238,7 +1238,8 @@
 				"storage.type.struct.solidity",
 				"storage.type.constructor.solidity",
 				"storage.type.event.solidity",
-				"storage.type.function.solidity"
+				"storage.type.function.solidity",
+				"storage.type.modifier.solidity"
 			],
 			"settings": {
 				"foreground": "#AE81FF",
