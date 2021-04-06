@@ -1258,11 +1258,22 @@
 			}
 		},
 		{
-			"name": "Solidity, Function Call",
+			"name": "Solidity, Name Declaration",
 			"scope": [
 				"entity.name.function.solidity",
-				"storage.type.mapping.solidity",
-				"entity.name.type.event.solidity"
+				"entity.name.type.event.solidity",
+				"entity.name.type.enum.solidity",
+				"entity.name.type.contract.solidity",
+				"entity.name.type.struct.solidity"
+			],
+			"settings": {
+				"foreground": "#66D9EF"
+			}
+		},
+		{
+			"name": "Solidity, Mapping",
+			"scope": [
+				"storage.type.mapping.solidity"
 			],
 			"settings": {
 				"foreground": "#66D9EF"
