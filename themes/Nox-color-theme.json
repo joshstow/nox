@@ -186,7 +186,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#F78C6C"
+				"foreground": "#EEFFFF"
 			}
 		},
 		{
@@ -1190,14 +1190,14 @@
 		},
 		{
 			"name": "Solidity, Pragma",
-			"scope": "keyword.control.pragma.solidity",
+			"scope": "keyword.control.pragma",
 			"settings": {
 				"foreground": "#F92672"
 			}
 		},
 		{
 			"name": "Solidity, Solidity Tag",
-			"scope": "entity.name.tag.pragma.solidity",
+			"scope": "entity.name.tag.pragma",
 			"settings": {
 				"foreground": "#66D9EF"
 			}
@@ -1205,10 +1205,10 @@
 		{
 			"name": "Solidity, Operator",
 			"scope": [
-				"keyword.operator.logic.solidity",
-				"keyword.operator.mapping.solidity",
-				"keyword.operator.arithmetic.solidity",
-				"keyword.operator.assignment.solidity"
+				"keyword.operator.logic",
+				"keyword.operator.mapping",
+				"keyword.operator.arithmetic",
+				"keyword.operator.assignment"
 			],
 			"settings": {
 				"foreground": "#F92672"
@@ -1217,8 +1217,8 @@
 		{
 			"name": "Solidity, Numeric",
 			"scope": [
-				"constant.numeric.decimal.solidity",
-				"constant.numeric.hexadecimal.solidity"
+				"constant.numeric.decimal",
+				"constant.numeric.hexadecimal"
 			],
 			"settings": {
 				"foreground": "#FD971F"
@@ -1226,7 +1226,7 @@
 		},
 		{
 			"name": "Solidity, Type",
-			"scope": "support.type.primitive.solidity",
+			"scope": "support.type.primitive",
 			"settings": {
 				"foreground": "#F92672"
 			}
@@ -1234,13 +1234,13 @@
 		{
 			"name": "Solidity, Storage",
 			"scope": [
-				"storage.type.contract.solidity",
-				"storage.type.struct.solidity",
-				"storage.type.constructor.solidity",
-				"storage.type.event.solidity",
-				"storage.type.function.solidity",
-				"storage.type.modifier.solidity",
-				"storage.type.enum.solidity"
+				"storage.type.contract",
+				"storage.type.struct",
+				"storage.type.constructor",
+				"storage.type.event",
+				"storage.type.function",
+				"storage.type.modifier",
+				"storage.type.enum"
 			],
 			"settings": {
 				"foreground": "#AE81FF",
@@ -1250,8 +1250,8 @@
 		{
 			"name": "Solidity, Entity Name",
 			"scope": [
-				"entity.name.type.contract.solidity",
-				"entity.name.type.struct.solidity"
+				"entity.name.type.contract",
+				"entity.name.type.struct"
 			],
 			"settings": {
 				"foreground": "#EEFFFF"
@@ -1260,11 +1260,7 @@
 		{
 			"name": "Solidity, Name Declaration",
 			"scope": [
-				"entity.name.function.solidity",
-				"entity.name.type.event.solidity",
-				"entity.name.type.enum.solidity",
-				"entity.name.type.contract.solidity",
-				"entity.name.type.struct.solidity"
+				"entity.name"
 			],
 			"settings": {
 				"foreground": "#66D9EF"
@@ -1273,7 +1269,7 @@
 		{
 			"name": "Solidity, Mapping",
 			"scope": [
-				"storage.type.mapping.solidity"
+				"storage.type.mapping"
 			],
 			"settings": {
 				"foreground": "#66D9EF"
@@ -1281,14 +1277,14 @@
 		},
 		{
 			"name": "Solidity, Modifier",
-			"scope": "storage.type.mofifier.solidity",
+			"scope": "storage.type.mofifier",
 			"settings": {
 				"foreground": "#FFDC17"
 			}
 		},
 		{
 			"name": "Solidity, Transaction Variable",
-			"scope": "variable.language.transaction.solidity",
+			"scope": "variable.language.transaction",
 			"settings": {
 				"foreground": "#F92672",
 				"fontStyle": "italic"
@@ -1297,8 +1293,8 @@
 		{
 			"name": "Solidity, String",
 			"scope": [
-				"string.quoted.double.solidity",
-				"string.quoted.single.solidity"
+				"string.quoted.double",
+				"string.quoted.single"
 			],
 			"settings": {
 				"foreground": "#A6E22E"
@@ -1306,7 +1302,7 @@
 		},
 		{
 			"name": "Solidity, Boolean",
-			"scope": "constant.language.boolean.solidity",
+			"scope": "constant.language.boolean",
 			"settings": {
 				"foreground": "#FD971F"
 			}
