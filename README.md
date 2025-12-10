@@ -18,6 +18,10 @@
 
 **Nox** (Latin for "night") is a carefully crafted dark theme featuring beautiful syntax highlighting and vibrant colors that are easy on the eyes during long coding sessions.
 
+## Screenshots
+
+<img src="https://raw.githubusercontent.com/joshstow/nox/refs/heads/main/assets/screenshot.png" alt="Nox Theme Screenshot" width="600"/>
+
 ## Supported filetypes
 
 - Python
