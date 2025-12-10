@@ -1,4 +1,4 @@
-# ![Nox](https://raw.githubusercontent.com/joshstow/nox/refs/heads/main/banner.jpg)
+# ![Nox](https://raw.githubusercontent.com/joshstow/nox/refs/heads/main/assets/banner.png)
 <h3 align="center">A custom dark-theme for the VSCode editor</h3>
 
 <p align="center">
