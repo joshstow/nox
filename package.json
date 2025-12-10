@@ -11,11 +11,11 @@
     "icon": "icon.png",
     "author": {
         "name": "Josh Stow",
-        "email": "hello@jstow.com",
-        "url": "https://github.com/jshstw/"
+        "email": "josh@jstow.com",
+        "url": "https://github.com/joshstow/"
     },
     "repository": {
-        "url": "https://github.com/jshstw/nox.git",
+        "url": "https://github.com/joshstow/nox.git",
         "type": "git"
     },
     "keywords": [
