@@ -40,7 +40,24 @@
 		"list.focusOutline": "#66D9EF80",
 		"list.errorForeground": "#F92672",
 		"list.warningForeground": "#FFDC17",
-		"menu.selectionBackground": "#66D9EF50"	
+		"menu.selectionBackground": "#66D9EF50",
+		"terminal.foreground": "#EEFFFF",
+		"terminal.ansiBlack": "#191919",
+		"terminal.ansiRed": "#F92672",
+		"terminal.ansiGreen": "#A6E22E",
+		"terminal.ansiYellow": "#FFDC17",
+		"terminal.ansiBlue": "#82AAFF",
+		"terminal.ansiMagenta": "#AE81FF",
+		"terminal.ansiCyan": "#66D9EF",
+		"terminal.ansiWhite": "#EEFFFF",
+		"terminal.ansiBrightBlack": "#929292",
+		"terminal.ansiBrightRed": "#F92672",
+		"terminal.ansiBrightGreen": "#A6E22E",
+		"terminal.ansiBrightYellow": "#FFDC17",
+		"terminal.ansiBrightBlue": "#82AAFF",
+		"terminal.ansiBrightMagenta": "#AE81FF",
+		"terminal.ansiBrightCyan": "#66D9EF",
+		"terminal.ansiBrightWhite": "#EEFFFF"
 	},
 	"tokenColors": [
 		{
