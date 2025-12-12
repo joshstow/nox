@@ -1323,6 +1323,84 @@
 			"settings": {
 				"foreground": "#FD971F"
 			}
+		},
+		{
+			"name": "Shell, Command",
+			"scope": [
+					"source.shell entity.name.function",
+					"support.function.builtin.shell",
+					"support.function.shell"
+			],
+			"settings": {
+					"foreground": "#66D9EF"
+			}
+		},
+		{
+			"name": "Shell, Variable",
+			"scope": [
+					"variable.other.normal.shell",
+					"variable.other.bracket.shell",
+					"variable.language.special.shell"
+			],
+			"settings": {
+					"foreground": "#EEFFFF"
+			}
+		},
+		{
+			"name": "Shell, String",
+			"scope": [
+					"string.quoted.single.shell",
+					"string.quoted.double.shell",
+					"string.interpolated.shell",
+					"punctuation.definition.string.begin.shell",
+					"punctuation.definition.string.end.shell"
+			],
+			"settings": {
+					"foreground": "#A6E22E"
+			}
+		},
+		{
+			"name": "Shell, Operator",
+			"scope": [
+					"keyword.operator.assignment.shell",
+					"keyword.operator.logical.shell",
+					"keyword.operator.pipe.shell",
+					"keyword.operator.redirect.shell",
+					"keyword.control.shell"
+			],
+			"settings": {
+					"foreground": "#F92672"
+			}
+		},
+		{
+			"name": "Shell, Numeric",
+			"scope": [
+					"constant.numeric.shell"
+			],
+			"settings": {
+					"foreground": "#FD971F"
+			}
+		},
+		{
+			"name": "Shell, Comment",
+			"scope": [
+					"comment.line.number-sign.shell",
+					"punctuation.definition.comment.shell"
+			],
+			"settings": {
+					"foreground": "#929292",
+					"fontStyle": "italic"
+			}
+		},
+		{
+			"name": "Shell, Unquoted Args",
+			"scope": [
+					"source.shell string.unquoted",
+					"string.unquoted.shell"
+			],
+			"settings": {
+					"foreground": "#A6E22E"
+			}
 		}
 	]
 }
