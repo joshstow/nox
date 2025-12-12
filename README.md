@@ -20,7 +20,7 @@
 
 ## Screenshots
 
-<img src="https://raw.githubusercontent.com/joshstow/nox/refs/heads/main/assets/screenshot.png" alt="Nox Theme Screenshot" width="600"/>
+<img src="https://raw.githubusercontent.com/joshstow/nox/refs/heads/main/assets/screenshot.png" alt="Nox Theme Screenshot" />
 
 ## Supported filetypes
 
