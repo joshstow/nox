@@ -1424,5 +1424,16 @@
 				"foreground": "#66D9EF"
 			}
 		},
+		{
+			"name": "Java Method/Function Names",
+			"scope": [
+				"entity.name.function.java",
+				"meta.method.identifier.java",
+				"meta.method.java"
+			],
+			"settings": {
+				"foreground": "#66D9EF"
+			}
+		}
 	]
 }
