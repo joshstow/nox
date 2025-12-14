@@ -46,7 +46,7 @@
 		"terminal.ansiRed": "#F92672",
 		"terminal.ansiGreen": "#A6E22E",
 		"terminal.ansiYellow": "#FFDC17",
-		"terminal.ansiBlue": "#3072FF",
+		"terminal.ansiBlue": "#0F8ADF",
 		"terminal.ansiMagenta": "#AE81FF",
 		"terminal.ansiCyan": "#66D9EF",
 		"terminal.ansiWhite": "#EEFFFF",
@@ -54,7 +54,7 @@
 		"terminal.ansiBrightRed": "#F92672",
 		"terminal.ansiBrightGreen": "#A6E22E",
 		"terminal.ansiBrightYellow": "#FFDC17",
-		"terminal.ansiBrightBlue": "#3072FF",
+		"terminal.ansiBrightBlue": "#0F8ADF",
 		"terminal.ansiBrightMagenta": "#AE81FF",
 		"terminal.ansiBrightCyan": "#66D9EF",
 		"terminal.ansiBrightWhite": "#EEFFFF"
@@ -168,7 +168,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#3072FF"
+				"foreground": "#0F8ADF"
 			}
 		},
 		{
@@ -288,7 +288,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#3072FF"
+				"foreground": "#0F8ADF"
 			}
 		},
 		{
@@ -298,7 +298,7 @@
 				"variable.function.constructor"
 			],
 			"settings": {
-				"foreground": "#3072FF"
+				"foreground": "#0F8ADF"
 			}
 		},
 		{
@@ -336,7 +336,7 @@
 				"source.sass keyword.control"
 			],
 			"settings": {
-				"foreground": "#3072FF"
+				"foreground": "#0F8ADF"
 			}
 		},
 		{
@@ -403,7 +403,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#3072FF"
+				"foreground": "#0F8ADF"
 			}
 		},
 		{
@@ -494,7 +494,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json punctuation.support.type.property-name.end.json"
 			],
 			"settings": {
-				"foreground": "#3072FF"
+				"foreground": "#0F8ADF"
 			}
 		},
 		{
@@ -549,7 +549,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json punctuation.support.type.property-name.end.json"
 			],
 			"settings": {
-				"foreground": "#3072FF"
+				"foreground": "#0F8ADF"
 			}
 		},
 		{
@@ -840,7 +840,7 @@
 				"variable.parameter.function-call.python"
 			],
 			"settings": {
-				"foreground": "#3072FF"
+				"foreground": "#0F8ADF"
 			}
 		},
 		{
@@ -1004,7 +1004,7 @@
 			"name": "CSS, Vendored Property Name",
 			"scope": "support.type.vendored.property-name.css",
 			"settings": {
-				"foreground": "#3072FF"
+				"foreground": "#0F8ADF"
 			}
 		},
 		{
@@ -1161,7 +1161,7 @@
 				"support.constant.math.js"
 			],
 			"settings": {
-				"foreground": "#3072FF"
+				"foreground": "#0F8ADF"
 			}
 		},
 		{
