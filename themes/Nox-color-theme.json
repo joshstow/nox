@@ -1401,6 +1401,28 @@
 			"settings": {
 					"foreground": "#A6E22E"
 			}
-		}
+		},
+		{
+      "name": "TS Method/Function Names",
+      "scope": [
+        "entity.name.function.ts",
+        "meta.definition.method.ts",
+        "meta.method.declaration.ts",
+        "meta.class.ts"
+      ],
+      "settings": {
+        "foreground": "#66D9EF"
+      }
+    },
+		{
+			"name": "TS Function Calls",
+			"scope": [
+				"entity.name.function.ts",
+				"meta.function-call.ts"
+			],
+			"settings": {
+				"foreground": "#66D9EF"
+			}
+		},
 	]
 }
