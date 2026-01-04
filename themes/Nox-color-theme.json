@@ -1434,6 +1434,68 @@
 			"settings": {
 				"foreground": "#66D9EF"
 			}
-		}
+		},
+			{
+				"name": "Java Class / Interface / Enum Names",
+				"scope": [
+					"entity.name.type.class.java",
+					"entity.name.type.interface.java",
+					"entity.name.type.enum.java"
+				],
+				"settings": {
+					"foreground": "#ff0000"
+				}
+			},
+
+		{
+			"name": "Java Modifiers",
+			"scope": [
+				"storage.modifier.java",
+				"storage.type.java"
+			],
+			"settings": {
+				"foreground": "#AE81FF"
+			}
+		},
+
+		{
+			"name": "Java Annotations",
+			"scope": [
+				"storage.type.annotation.java",
+				"punctuation.definitions.annotation.java"
+			],
+			"settings": {
+				"foreground": "#0F8ADF",
+				"fontStyle": "italic"
+			}
+		},
+
+		{
+			"name": "Java Imports and Packages",
+			"scope": [
+				"keyword.control.import.java",
+				"storage.type.package.java"
+			],
+
+			"settings": {
+
+				"foreground": "#F92672"
+			}
+		},
+
+		{
+			"name": "JavaDoc",
+			"scope": [
+				"comment.block.documentation.java",
+				"comment.block.javadoc.java"
+			],
+			"settings": {
+				"foreground": "#929292",
+				"fontStyle": "italic"
+			}
+		},
 	]
 }
+
+
+
