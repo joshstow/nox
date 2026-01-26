@@ -9,7 +9,7 @@ Thank you for your interest in contributing to **Nox**! This document provides g
 - [Development Setup](#development-setup)
 - [Making Changes](#making-changes)
 - [Submitting a Pull Request](#submitting-a-pull-request)
-- [Color Palette](#color-palette)
+- [Colour Palette](#colour-palette)
 - [Style Guidelines](#style-guidelines)
 - [Reporting Issues](#reporting-issues)
 
@@ -93,8 +93,8 @@ nox/
 ### Theme File Guidelines
 
 - The main theme file is located at `themes/Nox-color-theme.json`
-- Use the established color palette (see below) for consistency
-- Add comments to explain non-obvious color choices
+- Use the established colour palette (see below) for consistency
+- Add comments to explain non-obvious colour choices
 - Test changes across multiple file types before submitting
 
 ## Submitting a Pull Request
@@ -124,28 +124,28 @@ We follow [Conventional Commits](https://www.conventionalcommits.org/):
 - `refactor:` - Code refactoring
 - `chore:` - Maintenance tasks
 
-## Color Palette
+## Colour Palette
 
-When contributing, please use the established Nox color palette for consistency:
+When contributing, please use the established Nox colour palette for consistency:
 
-| Color                                                                                                         | Hex       |
-|---------------------------------------------------------------------------------------------------------------|-----------|
-| <div style="width:20px;height:20px;background-color:#F92672;border:1px solid #666;border-radius:3px"></div> | `#F92672` |
-| <div style="width:20px;height:20px;background-color:#AE81FF;border:1px solid #666;border-radius:3px"></div> | `#AE81FF` |
-| <div style="width:20px;height:20px;background-color:#0F8ADF;border:1px solid #666;border-radius:3px"></div> | `#0F8ADF` |
-| <div style="width:20px;height:20px;background-color:#66D9EF;border:1px solid #666;border-radius:3px"></div> | `#66D9EF` |
-| <div style="width:20px;height:20px;background-color:#A6E22E;border:1px solid #666;border-radius:3px"></div> | `#A6E22E` |
-| <div style="width:20px;height:20px;background-color:#FFDC17;border:1px solid #666;border-radius:3px"></div> | `#FFDC17` |
-| <div style="width:20px;height:20px;background-color:#FD971F;border:1px solid #666;border-radius:3px"></div> | `#FD971F` |
-| <div style="width:20px;height:20px;background-color:#EEFFFF;border:1px solid #666;border-radius:3px"></div> | `#EEFFFF` |
-| <div style="width:20px;height:20px;background-color:#929292;border:1px solid #666;border-radius:3px"></div> | `#929292` |
-| <div style="width:20px;height:20px;background-color:#1D1D1D;border:1px solid #666;border-radius:3px"></div> | `#1D1D1D` |
+| Colour                                                                                                  | Hex       |
+|---------------------------------------------------------------------------------------------------------|-----------|
+| ![#AE81FF](https://raw.githubusercontent.com/joshstow/nox/refs/heads/main/assets/palette/%23AE81FF.jpg) | `#AE81FF` |
+| ![#0F8ADF](https://raw.githubusercontent.com/joshstow/nox/refs/heads/main/assets/palette/%230F8ADF.jpg) | `#0F8ADF` |
+| ![#66D9EF](https://raw.githubusercontent.com/joshstow/nox/refs/heads/main/assets/palette/%2366D9EF.jpg) | `#66D9EF` |
+| ![#A6E22E](https://raw.githubusercontent.com/joshstow/nox/refs/heads/main/assets/palette/%23A6E22E.jpg) | `#A6E22E` |
+| ![#FFDC17](https://raw.githubusercontent.com/joshstow/nox/refs/heads/main/assets/palette/%23FFDC17.jpg) | `#FFDC17` |
+| ![#FD971F](https://raw.githubusercontent.com/joshstow/nox/refs/heads/main/assets/palette/%23FD971F.jpg) | `#FD971F` |
+| ![#F92672](https://raw.githubusercontent.com/joshstow/nox/refs/heads/main/assets/palette/%23F92672.jpg) | `#F92672` |
+| ![#EEFFFF](https://raw.githubusercontent.com/joshstow/nox/refs/heads/main/assets/palette/%23EEFFFF.jpg) | `#EEFFFF` |
+| ![#929292](https://raw.githubusercontent.com/joshstow/nox/refs/heads/main/assets/palette/%23929292.jpg) | `#929292` |
+| ![#1D1D1D](https://raw.githubusercontent.com/joshstow/nox/refs/heads/main/assets/palette/%231D1D1D.jpg) | `#1D1D1D` |
 
 ## Style Guidelines
 
-- **Consistency**: Match the existing style and color usage patterns
+- **Consistency**: Match the existing style and colour usage patterns
 - **Readability**: Ensure sufficient contrast between text and background
-- **Minimalism**: Avoid adding unnecessary colors or overly complex highlighting
+- **Minimalism**: Avoid adding unnecessary colours or overly complex highlighting
 
 ## Reporting Issues
 
