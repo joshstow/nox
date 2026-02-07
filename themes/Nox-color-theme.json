@@ -1443,7 +1443,7 @@
 					"entity.name.type.enum.java"
 				],
 				"settings": {
-					"foreground": "#ff0000"
+					"foreground": "#F92672"
 				}
 			},
 
