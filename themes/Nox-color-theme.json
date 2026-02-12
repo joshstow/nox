@@ -1474,6 +1474,8 @@
 			"name": "Java Imports and Packages",
 			"scope": [
 				"keyword.control.import.java",
+				"keyword.other.import.java",
+				"keyword.other.package.java",
 				"storage.type.package.java"
 			],
 
